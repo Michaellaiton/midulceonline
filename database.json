@@ -1,0 +1,30 @@
+{
+  "Usuarios": [
+    {
+      "nombre": "Michel",
+      "email": "michellaiton@sena.edu.co",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "nombre": "Michael",
+      "email": "michael@gmail.com",
+      "password": "michael123",
+      "id": 2
+    },
+    {
+      "email": "michael@gmail.com",
+      "password": "michael123",
+      "id": 3
+    }
+  ],
+  "Productos": [
+    {
+      "id": "1",
+      "nombre": "Papas Familiar",
+      "precio": "25000",
+      "categoria": "Paquetes",
+      "region": "colombia"
+    }
+  ]
+}
